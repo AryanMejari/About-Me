@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Samir Mejari</h1>
+<h1 align="center">Hi 👋, I'm Aryan Samir Mejari!</h1>
 <h3 align="center">🎓 Computer Science Engineering Student 🤖 AI & Machine Learning Developer 🌐 Web Development Enthusiast CCNA Certified Junior Cybersecurity Analyst Aspiring Project Manager and a Team Leader</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coming&label=Profile%20views&color=0e75b6&style=flat" alt="coming" /> </p>
